@@ -1,7 +1,7 @@
 "use strict";
 
 // ---- Config -------------------------------------------------------------
-const API_BASE = "http://127.0.0.1:2200";
+const API_BASE = "https://dimagi-health.onrender.com";
 const SCORE_MAX = 10;          // upper end of the gauge; change if your model's scale differs
 const MIN_LOADING_MS = 500;    // keeps the loading animation from flickering
 
